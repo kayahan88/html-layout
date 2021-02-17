@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding: 25px;
+  padding: 10px;
 }
 
 
@@ -30,6 +30,7 @@ body {
   border-radius: 50%;
   background-color: skyblue;
   display: inline-block;
+  margin: 0 25px;
 }
 
 .container-two {
